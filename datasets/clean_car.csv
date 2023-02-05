@@ -1,0 +1,633 @@
+,Variant,Transmission,km_driven,Owner_Type,Fuel,Price,Company,Car,Age
+0,GTX + AT PETROL,Automatic,8241,1st Owner,Petrol,1895199,KIA,SELTOS,2
+1,LXI,Manual,10568,1st Owner,Petrol,592499,Maruti,Swift,2
+2,LXI,Manual,27659,1st Owner,Petrol,533399,Maruti,Swift,3
+3,HTX 1.5 PETROL MT,Manual,32799,1st Owner,Petrol,1383099,KIA,SELTOS,2
+4,C 200 AVANTGARDE,Automatic,37531,1st Owner,Petrol,2033499,Mercedes,Benz C Class,8
+6,ERA 1.1 IRDE,Manual,37928,1st Owner,Petrol,271699,Hyundai,i10,9
+7,VX MT PETROL,Manual,61168,2nd Owner,Petrol,658499,Honda,City,8
+8,SHARP (O) 1.5 CVT IVORY,AUTOMATIC,2091,1st Owner,Petrol,1767999,MG,ASTOR,0
+9,HTK PLUS 1.5 DIESEL,Manual,25067,1st Owner,Diesel,1307499,KIA,SELTOS,3
+10,1.0 RXT Opt,Manual,368,1st Owner,Petrol,505099,Renault,Kwid,1
+11,1.1 ERA EXICUTIVE,Manual,3812,2nd Owner,Petrol,471599,Hyundai,NEW SANTRO,2
+13,LXI,Manual,5078,1st Owner,Petrol,611299,Maruti,Swift,1
+14,2.2 DIESEL,Automatic,28909,2nd Owner,Diesel,1549999,Jaguar,XF,9
+15,GTX + AT PETROL,Automatic,37357,1st Owner,Petrol,1659099,KIA,SELTOS,3
+16,LXI,Manual,25788,1st Owner,Petrol,542299,Maruti,Dzire,4
+17,1.2 i-VTEC VX MT,Manual,17511,1st Owner,Petrol,779899,Honda,WR-V,5
+18,XE 1.2,Manual,7472,1st Owner,Petrol,641999,Tata,ALTROZ,1
+19,SIGMA 1.2 K12,Manual,8966,1st Owner,Petrol,603599,Maruti,Baleno,2
+21,MAGNA 1.2 KAPPA2,Manual,72229,1st Owner,Petrol,282899,Hyundai,i10,11
+22,XZ 1.2,Manual,1086,1st Owner,Petrol,861699,Tata,ALTROZ,0
+23,MAGNA 1.1 IRDE2,Manual,41439,2nd Owner,Petrol,349399,Hyundai,i10,8
+24,RXT 1.0 AMT,Automatic,5972,1st Owner,Petrol,830299,Renault,Kiger,1
+25,ERA 1.1 IRDE,Manual,21723,1st Owner,Petrol,210249,Hyundai,i10,13
+26,VXI,Manual,28210,1st Owner,Petrol,270299,Maruti,Alto 800,8
+27,LXI,Manual,48001,2nd Owner,Petrol,170299,Maruti,Alto,12
+29,ERA 1.1 IRDE,Manual,44327,1st Owner,Petrol,199699,Hyundai,i10,13
+30,1.4 SPORT PETROL,Manual,42490,2nd Owner,Petrol,1376149,Jeep,Compass,3
+31,VXI,Manual,14065,1st Owner,Petrol,477299,Maruti,Celerio,2
+32,HTK 1.5 PETROL,Manual,32873,1st Owner,Petrol,1189899,KIA,SELTOS,2
+33,MAGNA 1.2 VTVT,Manual,6470,1st Owner,Petrol,608399,Hyundai,Grand i10,2
+34,SHARP HYBRID PETROL,Manual,12185,2nd Owner,Petrol,1848299,MG,HECTOR PLUS,2
+35,T (O),Manual,13021,1st Owner,Petrol,463499,Datsun,Redi Go,1
+36,XE DIESEL,Manual,63753,1st Owner,Diesel,275299,Nissan,Micra,8
+37,1.4  LONGITUDE (O) AT,Automatic,23327,1st Owner,Petrol,2012799,Jeep,Compass,3
+38,2.0 LIMITED,Manual,46860,1st Owner,Diesel,1941699,Jeep,Compass,3
+40,SPORTZ 1.2 KAPPA VTVT,Manual,16157,1st Owner,Petrol,465199,Hyundai,Grand i10,6
+41,1.6 CRDI SX + AT,Automatic,33499,1st Owner,Diesel,1149399,Hyundai,Verna,4
+42,ZXI,Manual,13159,1st Owner,Petrol,412099,Maruti,Swift,10
+43,SPORTZ 1.2,Manual,25414,1st Owner,Petrol,530099,Hyundai,Elite i20,7
+44,SV MT PETROL,Manual,58689,1st Owner,Petrol,732399,Honda,City,5
+45,SPORTZ 1.2 KAPPA2,Manual,54800,1st Owner,Petrol,257999,Hyundai,i10,10
+46,XV CVT,Automatic,8096,1st Owner,Petrol,476399,Nissan,Micra,6
+48,1.0 RXT Opt,Manual,10572,2nd Owner,Petrol,452199,Renault,Kwid,2
+49,VXI AMT,Automatic,41822,3rd Owner,Petrol,339599,Maruti,Celerio,8
+51,1.5 SX (O) AT,Automatic,16315,1st Owner,Petrol,1755399,Hyundai,Creta,2
+54,LXI,Manual,59277,1st Owner,Petrol,342699,Maruti,Wagon R 1.0,8
+55,SHARP DCT PETROL,Automatic,9378,1st Owner,Petrol,1794899,MG,HECTOR,3
+56,SIGMA 1.2 K12,Manual,15199,1st Owner,Petrol,506599,Maruti,IGNIS,2
+57,HTK PLUS AT 1.5 DIESEL,Automatic,33981,2nd Owner,Diesel,1465299,KIA,SELTOS,2
+58,GT TSI 1.2 PETROL AT,Automatic,36483,1st Owner,Petrol,608199,Volkswagen,Polo,7
+59,VXI,Manual,35953,1st Owner,Petrol,603299,Maruti,Swift,3
+60,FLUIDIC 1.6 SX VTVT OPT AT,Automatic,60368,2nd Owner,Petrol,523299,Hyundai,Verna,9
+61,VXI,Manual,2920,1st Owner,Petrol,408999,Maruti,Alto K10,4
+62,V MT PETROL,Manual,83263,1st Owner,Petrol,549799,Honda,City,8
+63,1.0 RXT Opt,Manual,2863,1st Owner,Petrol,473299,Renault,Kwid,1
+64,HTX+ AT 1.5 DIESEL,Automatic,32605,2nd Owner,Diesel,1539699,KIA,SELTOS,2
+65,MAGNA 1.2,Manual,20452,2nd Owner,Petrol,494199,Hyundai,Elite i20,6
+66,SPORTZ 1.2 KAPPA VTVT,Manual,21043,1st Owner,Petrol,540599,Hyundai,Grand i10,3
+67,MAGNA 1.1 IRDE2,Manual,61943,1st Owner,Petrol,259399,Hyundai,i10,11
+68,VXI,Manual,9236,1st Owner,Petrol,879499,Maruti,Vitara Brezza,1
+69,XDRIVE 20D,Automatic,71180,2nd Owner,Diesel,1126499,BMW,X3,9
+71,ZXI AMT,Automatic,9278,1st Owner,Petrol,607599,Maruti,Celerio,1
+72,ERA 1.4 CRDI,Manual,30354,1st Owner,Diesel,306299,Hyundai,i20,9
+73,1.2 S AT,Automatic,48225,2nd Owner,Petrol,526999,Honda,Jazz,6
+74,GT TSI 1.2 PETROL AT,Automatic,96751,1st Owner,Petrol,747899,Volkswagen,Polo,4
+75,MAGNA O 1.2,Manual,59194,2nd Owner,Petrol,342799,Hyundai,i20,9
+76,1.2 VX I-VTECH,Manual,28170,1st Owner,Petrol,543799,Honda,Jazz,7
+77,VXI AMT,Automatic,45067,2nd Owner,Petrol,622999,Maruti,Swift,3
+78,DELTA 1.2 K12,Manual,12452,2nd Owner,Petrol,668599,Maruti,Baleno,3
+80,VX MT PETROL,Manual,7632,1st Owner,Petrol,1297699,Honda,City,2
+81,ZXI 1.2,Manual,12418,1st Owner,Petrol,608599,Maruti,New  Wagon-R,2
+82,1.0 RXT Opt AT,Automatic,35187,1st Owner,Petrol,500799,Renault,Kwid,1
+84,LXI,Manual,55163,1st Owner,Petrol,188099,Maruti,Alto,12
+85,SV MT PETROL,Manual,20567,2nd Owner,Petrol,599249,Honda,City,8
+86,LXI OPT,Manual,2229,1st Owner,Petrol,428399,Maruti,Alto,1
+87,V MT PETROL,Manual,68366,1st Owner,Petrol,815699,Honda,City,4
+88,S MT 1.2 KAPPA,Manual,15263,1st Owner,Petrol,834099,Hyundai,VENUE,1
+89,MAGNA 1.1 IRDE2,Manual,72272,2nd Owner,Petrol,330899,Hyundai,i10,7
+90,A,Manual,27411,1st Owner,Petrol,328049,Datsun,Redi Go,3
+91,2.0 LONGITUDE,Manual,72575,1st Owner,Diesel,1204299,Jeep,Compass,4
+92,1.2 S (O) MT I VTEC,Manual,58093,2nd Owner,Petrol,506299,Honda,Amaze,4
+93,XMA 1.2,Automatic,28467,1st Owner,Petrol,787499,Tata,NEXON,3
+94,V MT PETROL,Manual,4216,1st Owner,Petrol,1096749,Honda,City,2
+95,SIGMA 1.2 K12,Manual,36041,1st Owner,Petrol,551299,Maruti,Baleno,2
+96,VXI,Manual,18949,1st Owner,Petrol,631299,Maruti,Dzire,5
+97,VDI OPT,Manual,28496,2nd Owner,Diesel,647599,Maruti,Vitara Brezza,5
+98,1.5 VXMT I DTEC,Manual,52220,1st Owner,Diesel,692849,Honda,Amaze,4
+99,1.2 V CVT I VTEC,Automatic,13291,2nd Owner,Petrol,788399,Honda,Amaze,3
+100,1.0 Lxi (o) cng,Manual,34542,1st Owner,Petrol + CNG,683199,Maruti,New  Wagon-R,1
+101,XZA 1.2 REVOTRON,Automatic,13291,1st Owner,Petrol,534099,Tata,Tiago,3
+102,VXI AMT,Automatic,10515,1st Owner,Petrol,574699,Maruti,Celerio,2
+103,S MT PETROL,Manual,52035,1st Owner,Petrol,372999,Honda,City,11
+104,1.0 RXT Opt,Manual,50466,1st Owner,Petrol,414699,Renault,Kwid,3
+105,VX MT PETROL,Manual,6873,1st Owner,Petrol,1284799,Honda,City,2
+106,RXL,Manual,19927,1st Owner,Petrol,354799,Renault,Kwid,4
+107,ZXI 1.2,Manual,10777,1st Owner,Petrol,608599,Maruti,New  Wagon-R,2
+108,ZDI PLUS DUAL TONE,Manual,38072,1st Owner,Diesel,788599,Maruti,Vitara Brezza,5
+109,VXI AMT,Automatic,15854,1st Owner,Petrol,510899,Maruti,Wagon R 1.0,4
+110,1.0 RXL,Manual,42535,1st Owner,Petrol,332399,Renault,Kwid,4
+111,SPORTZ 1.2 KAPPA VTVT,Manual,19575,1st Owner,Petrol,485599,Hyundai,Grand i10,6
+112,XE 1.2 REVOTRON,Manual,14201,1st Owner,Petrol,460599,Tata,Tiago,3
+113,S MT PETROL,Manual,39565,1st Owner,Petrol,391699,Honda,City,12
+114,1.0 RXT Opt,Manual,31621,1st Owner,Petrol,420299,Renault,Kwid,3
+115,SHARP DCT PETROL,Automatic,12283,1st Owner,Petrol,1665399,MG,HECTOR,3
+116,XTA 1.2 PETROL,Automatic,6990,1st Owner,Petrol,684599,Tata,Tiago,1
+117,DELTA 1.2 K12 AT,Automatic,26314,2nd Owner,Petrol,527799,Maruti,Baleno,6
+118,1.5 W6 MT,Manual,23806,1st Owner,Diesel,917399,Mahindra,XUV 3OO,3
+119,LXI,Manual,2303,1st Owner,Petrol,384399,Maruti,Alto,1
+120,VDI ABS,Manual,46245,1st Owner,Diesel,432499,Maruti,Swift,7
+121,VXI AMT,Automatic,34110,1st Owner,Petrol,626699,Maruti,Swift,4
+122,RXL,Manual,55187,2nd Owner,Petrol,321799,Renault,Kwid,4
+123,XZ 1.2,Manual,9734,1st Owner,Petrol,822499,Tata,ALTROZ,0
+124,FLUIDIC 1.6 VTVT SX AT,Automatic,13728,2nd Owner,Petrol,713499,Hyundai,Verna,6
+125,XZ 1.2,Manual,10789,1st Owner,Petrol,804899,Tata,ALTROZ,1
+126,LX  4WD AT CONVERTIBLE,Automatic,4222,1st Owner,Petrol,1696099,Mahindra,Thar,1
+127,VXI,Manual,13818,2nd Owner,Petrol,391299,Maruti,Alto,3
+128,DELTA 1.2 K12,Manual,24539,1st Owner,Petrol,671599,Maruti,Baleno,3
+129,2.0 LIMITED,Manual,55714,1st Owner,Diesel,1261299,Jeep,Compass,4
+130,1.0 RXZ,Manual,1599,1st Owner,Petrol,786899,Renault,TRIBER,1
+131,SPORTZ (O) 1.2 AT VTVT,Automatic,16636,1st Owner,Petrol,586499,Hyundai,Grand i10,5
+132,1.2 TITANIUM PETROL,Manual,33815,1st Owner,Petrol,568299,Ford,Figo Aspire,4
+133,Magna Executive 1.2,Manual,15702,1st Owner,Petrol,581799,Hyundai,Elite i20,4
+134,XZ 1.2 REVOTRON OPT,Manual,34014,1st Owner,Petrol,534499,Tata,TIGOR,4
+135,RXL,Manual,35525,2nd Owner,Petrol,350499,Renault,Kwid,3
+136,VXI AGS,Automatic,244,1st Owner,Petrol,567399,Maruti,S PRESSO,0
+137,ALPHA 1.5 MT VTVT SHVS,Manual,4708,1st Owner,Petrol,1133599,Maruti,Ciaz,1
+138,DELTA 1.2 K12,Manual,4260,1st Owner,Petrol,725599,Maruti,Baleno,2
+139,1.6 VTVT SX AUTO,Automatic,26097,2nd Owner,Petrol,1353699,Hyundai,Creta,3
+140,SPORTZ 1.4 CRDI,Manual,65005,1st Owner,Diesel,336499,Hyundai,i20,9
+141,1.2 i-VTEC VX MT,Manual,51606,2nd Owner,Petrol,715999,Honda,WR-V,5
+142,XZ 1.2,Manual,13937,1st Owner,Petrol,827999,Tata,ALTROZ,2
+143,1.2 SAT I VTEC,Automatic,48381,2nd Owner,Petrol,538599,Honda,Amaze,6
+144,G CVT,Automatic,44823,1st Owner,Petrol,979299,Toyota,YARIS,2
+145,1.2 VXMT I VTEC,Manual,3031,1st Owner,Petrol,945599,Honda,Amaze,0
+146,VXI,Manual,11917,1st Owner,Petrol,560599,Maruti,Swift,4
+147,W9 AT,Automatic,20809,1st Owner,Diesel,1883699,Mahindra,XUV500,1
+148,DELTA 1.2 K12,Manual,36411,1st Owner,Petrol,711199,Maruti,Baleno,2
+149,RXL,Manual,5660,1st Owner,Petrol,404099,Renault,Kwid,3
+150,V MT PETROL,Manual,91673,2nd Owner,Petrol,557699,Honda,City,8
+152,ASTA 1.2 (O),Manual,87715,1st Owner,Petrol,674299,Hyundai,Elite i20,4
+153,XZA  DUAL TONE,Automatic,16826,1st Owner,Diesel,2086999,Tata,Harrier,1
+154,1.6 SX AT O,Automatic,11784,1st Owner,Diesel,1447599,Hyundai,New Elantra,3
+155,SIGMA 1.2 K12,Manual,23514,1st Owner,Petrol,523999,Maruti,Baleno,5
+156,XZ PLUS 1.2 REVOTRON,Manual,7089,1st Owner,Petrol,814799,Tata,TIGOR,1
+157,V MT PETROL,Manual,38050,1st Owner,Petrol,912699,Honda,City,3
+158,LXI OPT,Manual,37931,2nd Owner,Petrol,421999,Maruti,Swift,7
+159,T (O),Manual,7323,1st Owner,Petrol,457499,Datsun,Redi Go,1
+160,VX 1.2 CVT,Automatic,7460,1st Owner,Petrol,953799,Honda,Jazz,1
+161,SPORTZ 1.2 KAPPA VTVT,Manual,46106,1st Owner,Petrol,482799,Hyundai,Grand i10,6
+162,G AT,Automatic,75422,1st Owner,Petrol,1389899,Toyota,Corolla Altis,5
+163,SPORTZ 1.2 KAPPA VTVT,Manual,65162,1st Owner,Petrol + CNG,460699,Hyundai,Grand i10,5
+164,VXI,Manual,87463,1st Owner,Petrol,218899,Maruti,Alto K10,10
+165,COMFORTLINE 1.2L PETROL,Manual,86070,1st Owner,Petrol,434999,Volkswagen,Polo,7
+166,ZX CVT,Automatic,9871,1st Owner,Petrol,1000099,Honda,Jazz,2
+167,SPORTZ 1.2 KAPPA VTVT,Manual,62740,2nd Owner,Petrol,427799,Hyundai,Grand i10,6
+168,1.5 SX (O) AT,Automatic,31437,1st Owner,Petrol,1766599,Hyundai,Creta,2
+169,1.4 S CRDI,Manual,71968,1st Owner,Diesel,957899,Hyundai,Creta,3
+170,DELTA 1.2 K12,Manual,24767,1st Owner,Petrol,648799,Maruti,Baleno,3
+171,1.2 SPORTS PLUS VTVT,Manual,30078,1st Owner,Petrol,707299,Hyundai,Elite i20,3
+173,1.2 S MT,Manual,50506,2nd Owner,Petrol,543799,Honda,Jazz,4
+174,DELTA 1.2 K12,Manual,26288,1st Owner,Petrol,655499,Maruti,Baleno,3
+175,RXT,Manual,25910,2nd Owner,Petrol,342799,Renault,Kwid,5
+176,1.0 TURBO GDI SX+ AT,Automatic,57770,1st Owner,Petrol,1039999,Hyundai,VENUE,3
+177,ZXI +,Manual,22317,1st Owner,Petrol,982499,Maruti,Vitara Brezza,1
+178,VXI,Manual,14400,1st Owner,Petrol,741999,Maruti,Dzire,1
+179,LXI CNG,Manual,64132,1st Owner,Petrol + CNG,325799,Maruti,Wagon R 1.0,8
+180,1.6 VTVT SX AUTO,Automatic,29081,1st Owner,Petrol,1407599,Hyundai,Creta,2
+181,ZXI 1.2,Manual,23797,1st Owner,Petrol,608599,Maruti,New  Wagon-R,2
+182,DELTA 1.2 K12,Manual,26445,1st Owner,Petrol,604899,Maruti,Baleno,4
+183,SHARP 2.0 DIESEL,Manual,50353,1st Owner,Diesel,1518299,MG,HECTOR,3
+184,ZXI AMT,Automatic,32649,1st Owner,Petrol,435599,Maruti,Celerio,6
+185,SPORTZ 1.2 KAPPA VTVT,Manual,37953,2nd Owner,Petrol,521999,Hyundai,Grand i10,3
+186,LX D 4*4 MT HT,Manual,6962,1st Owner,Diesel,1702699,Mahindra,Thar,1
+187,ZXI OPT AMT,Automatic,81353,1st Owner,Petrol,422099,Maruti,Celerio,5
+188,XZ 1.2,Manual,37413,1st Owner,Petrol,795399,Tata,ALTROZ,2
+189,SUPER DIESEL,Manual,52465,2nd Owner,Diesel,1391599,MG,HECTOR,3
+190,1.2 V CVT I VTEC,Automatic,23495,1st Owner,Petrol,773999,Honda,Amaze,4
+191,V MT PETROL,Manual,24280,1st Owner,Petrol,1076199,Honda,City,2
+192,S PETROL MT,Manual,7757,1st Owner,Petrol,1328499,Hyundai,Creta,2
+193,DELTA 1.2 K12,Manual,25647,1st Owner,Petrol,675199,Maruti,Baleno,3
+194,VXI,Manual,12407,1st Owner,Petrol,466049,Maruti,Celerio,4
+195,1.2 VXMT I VTEC,Manual,1546,1st Owner,Petrol,720399,Honda,Amaze,4
+196,ZETA 1.2 K12,Manual,22535,1st Owner,Petrol,574899,Maruti,Baleno,6
+197,1.0 AMBITION TSI AT,Automatic,16292,2nd Owner,Petrol,1167399,Skoda,Rapid,2
+198,DELTA 1.2 K12,Manual,16402,1st Owner,Petrol,676399,Maruti,Baleno,3
+199,DELTA 1.2 K12,Manual,24453,2nd Owner,Petrol,659099,Maruti,Baleno,3
+200,HIGHLINE A/T,Automatic,74860,1st Owner,Diesel,2139099,Volkswagen,TIGUAN,4
+201,VXI,Manual,27718,1st Owner,Petrol,470699,Maruti,Celerio,3
+202,GT TSI 1.2 PETROL AT,Automatic,53365,1st Owner,Petrol,705499,Volkswagen,Polo,3
+203,DELTA 1.2 K12,Manual,29383,1st Owner,Petrol,660999,Maruti,Baleno,3
+204,VXI (O) AMT,Automatic,13002,2nd Owner,Petrol,407299,Maruti,Alto K10,4
+205,LXI CNG,Manual,23812,1st Owner,Petrol + CNG,510799,Maruti,Alto,1
+206,SX PETROL MT,Manual,20361,1st Owner,Petrol,1191899,Hyundai,Verna,1
+207,VXI PLUS,Manual,4889,1st Owner,Petrol,435499,Maruti,Alto,1
+208,DELTA 1.2 K12,Manual,29525,2nd Owner,Petrol,607999,Maruti,Baleno,2
+209,1.2 i-VTEC S MT,Manual,18136,2nd Owner,Petrol,652199,Honda,WR-V,4
+210,1.6 VTVT SX AUTO,Automatic,31594,1st Owner,Petrol,1353699,Hyundai,Creta,3
+211,1.2 ZX MT,Manual,10535,1st Owner,Petrol,893899,Honda,Jazz,2
+212,XZ 1.2,Manual,32106,1st Owner,Petrol,822499,Tata,ALTROZ,2
+213,1.2 i-VTEC VX MT,Manual,43575,1st Owner,Petrol,813199,Honda,WR-V,3
+214,VXI 1.2L,Manual,10471,2nd Owner,Petrol,558799,Maruti,New  Wagon-R,2
+215,ALPHA 1.3 DDIS SHVS,Manual,35969,1st Owner,Diesel,903299,Maruti,Ciaz,3
+216,SIGMA 1.5 SHVS,Manual,1189,1st Owner,Petrol,941199,Maruti,S Cross,0
+217,XZ PLUS 1.2 REVOTRON,Manual,9553,1st Owner,Petrol,814799,Tata,TIGOR,1
+218,V MT PETROL,Manual,29922,1st Owner,Petrol,923399,Honda,City,3
+219,1.5 TITANIUM TI VCT,Manual,46901,2nd Owner,Petrol,630199,Ford,Ecosport,6
+220,DELTA 1.2 K12,Manual,22380,1st Owner,Petrol,643239,Maruti,Baleno,3
+221,1.2 V CVT I VTEC,Automatic,29577,1st Owner,Petrol,794399,Honda,Amaze,3
+222,ZXI,Manual,63278,1st Owner,Petrol,446999,Maruti,Swift,8
+223,1.2 SPORTS PLUS VTVT,Manual,45805,1st Owner,Petrol,702299,Hyundai,Elite i20,3
+224,VXI,Manual,95218,1st Owner,Petrol,331199,Maruti,Alto K10,5
+225,1.0 RXT Opt,Manual,75123,1st Owner,Petrol,342999,Renault,Kwid,4
+226,SPORTZ 1.4 CRDI,Manual,121564,2nd Owner,Diesel,348599,Hyundai,i20,9
+227,ZETA 1.2 K12,Manual,19398,1st Owner,Petrol,728199,Maruti,Baleno,3
+228,1.1 MAGNA AMT,Automatic,20498,1st Owner,Petrol,527699,Hyundai,NEW SANTRO,3
+230,G SP,Manual,36330,1st Owner,Petrol,376599,Toyota,Etios Liva,9
+231,SPORTZ 1.1,Manual,17336,1st Owner,Petrol,473899,Hyundai,NEW SANTRO,2
+232,SHARP DCT PETROL,Automatic,35443,1st Owner,Petrol,1726099,MG,HECTOR,3
+233,SHARP DCT PETROL,Automatic,36621,1st Owner,Petrol,1778399,MG,HECTOR,3
+234,1.2 i-VTEC VX MT,Manual,84302,1st Owner,Petrol,671699,Honda,WR-V,5
+235,1.0 Lxi (o) cng,Manual,16511,1st Owner,Petrol + CNG,684099,Maruti,New  Wagon-R,1
+236,SHARP DCT PETROL,Automatic,38903,1st Owner,Petrol,1634199,MG,HECTOR,3
+237,GL,Manual,58885,1st Owner,Petrol,1136899,Toyota,Corolla Altis,5
+238,VXI,Manual,5821,1st Owner,Petrol,428299,Maruti,Alto K10,3
+239,V MT PETROL,Manual,23860,1st Owner,Petrol,870999,Honda,City,4
+240,VXI PLUS,Manual,14253,1st Owner,Petrol,686399,Maruti,Ciaz,6
+241,ASTA 1.1 MT,Manual,12664,1st Owner,Petrol,558899,Hyundai,NEW SANTRO,3
+242,Varicor 400 XMA,Automatic,75883,1st Owner,Diesel,1148749,Tata,Hexa,4
+243,ASTA 1.2,Manual,25775,2nd Owner,Petrol,602099,Hyundai,Elite i20,5
+245,DELTA 1.2 K12,Manual,25227,1st Owner,Petrol,689199,Maruti,Baleno,3
+246,VXI,Manual,33888,2nd Owner,Petrol,441899,Maruti,Celerio,3
+247,DELTA 1.2 K12,Manual,12799,1st Owner,Petrol,642999,Maruti,IGNIS,1
+248,SIGMA 1.2 K12,Manual,18645,1st Owner,Petrol,466099,Maruti,IGNIS,4
+249,DELTA 1.2 K12,Manual,64181,1st Owner,Petrol,480449,Maruti,Baleno,5
+250,ZETA 1.2 K12,Manual,30672,1st Owner,Petrol,647999,Maruti,Baleno,4
+251,VXI,Manual,37786,1st Owner,Petrol,346054,Maruti,Alto,3
+252,S9,Manual,26121,1st Owner,Diesel,1513099,Mahindra,Scorpio,2
+253,SPORTZ PETROL,Manual,16489,1st Owner,Petrol,676399,Hyundai,GRAND I10 NIOS,2
+254,1.2 i-VTEC S MT,Manual,39333,1st Owner,Petrol,648099,Honda,WR-V,5
+255,XZ+ 1.5,Manual,6694,1st Owner,Diesel,1261699,Tata,NEXON,1
+256,ALPHA 1.2 K12 AMT,Automatic,25350,1st Owner,Petrol,670699,Maruti,IGNIS,3
+257,MAGNA PLUS,Manual,43616,2nd Owner,Petrol,305699,Hyundai,Eon,7
+258,VXI PLUS AGS,Automatic,2258,1st Owner,Petrol,528499,Maruti,S PRESSO,2
+259,XE 1.2 REVOTRON,Manual,33114,1st Owner,Petrol,425099,Tata,Tiago,4
+260,SHARP DCT PETROL,Automatic,33016,1st Owner,Petrol,1804899,MG,HECTOR,2
+261,SPORTZ 1.2 KAPPA VTVT,Manual,19577,1st Owner,Petrol,428299,Hyundai,Grand i10,6
+262,XE 2.0 KRYOTEC,Manual,17534,1st Owner,Diesel,1536799,Tata,Safari,1
+264,LXI,Manual,18671,1st Owner,Petrol,424499,Maruti,Wagon R 1.0,4
+265,SPORTZ 1.2 AT,Automatic,15206,1st Owner,Petrol,725899,Hyundai,GRAND I10 NIOS,3
+266,2WD AT GLS PETROL,Automatic,38848,1st Owner,Petrol,2139499,Hyundai,Tucson New,3
+268,W8 FWD,Manual,84279,2nd Owner,Diesel,969399,Mahindra,XUV500,5
+269,LX D 4*4 MT HT,Manual,10292,1st Owner,Diesel,1673799,Mahindra,Thar,1
+270,1.5 TITANIUM TI VCT,Manual,53040,1st Owner,Petrol,701099,Ford,Ecosport,6
+271,DELTA 1.2 K12,Manual,26114,1st Owner,Petrol,525199,Maruti,Baleno,6
+272,G CVT,Automatic,8225,1st Owner,Petrol,930899,Toyota,Glanza,1
+273,VXI,Manual,25646,1st Owner,Petrol,432099,Maruti,Celerio,5
+274,1.6 SX AT CRDI,Automatic,42396,1st Owner,Diesel,1603199,Hyundai,Creta,2
+275,VXI,Manual,42315,2nd Owner,Petrol,792799,Maruti,Vitara Brezza,2
+276,Varicor 400 XM,Manual,43696,1st Owner,Diesel,1505499,Tata,Hexa,3
+277,MAGNA 1.2 VTVT,Manual,39304,1st Owner,Petrol,472699,Hyundai,Grand i10,4
+278,MAGNA 1.2 KAPPA VTVT,Manual,18003,1st Owner,Petrol,477220,Hyundai,Grand i10,5
+279,1.2 i-VTEC VX MT,Manual,41604,1st Owner,Petrol,755199,Honda,WR-V,4
+280,1.2 EMT I VTEC,Manual,49342,1st Owner,Petrol,418099,Honda,Amaze,8
+281,ZX CVT PETROL,Automatic,45604,1st Owner,Petrol,1698999,Honda,Civic,3
+282,S 1.2,Manual,35557,1st Owner,Petrol,445599,Hyundai,Xcent,7
+283,ZXI AMT,Automatic,40735,1st Owner,Petrol,448699,Maruti,Celerio,5
+284,SPORTZ 1.2 KAPPA VTVT,Manual,50886,1st Owner,Petrol,398899,Hyundai,Grand i10,8
+285,ASTA 1.2 KAPPA VTVT,Manual,80982,2nd Owner,Petrol,460899,Hyundai,Grand i10,6
+286,SPORTZ 1.2 KAPPA VTVT,Manual,39642,1st Owner,Petrol,530699,Hyundai,Grand i10,3
+287,LXI,Manual,53244,1st Owner,Petrol,376899,Maruti,Swift,9
+288,DELTA 1.2 K12,Manual,40459,2nd Owner,Petrol,525199,Maruti,Baleno,6
+289,SPORTZ 1.2 AT,Automatic,7840,2nd Owner,Petrol,725699,Hyundai,GRAND I10 NIOS,2
+290,VXI,Manual,54796,1st Owner,Petrol,598699,Maruti,Dzire,5
+291,ALPHA 1.2 K12,Manual,23204,1st Owner,Petrol,627149,Maruti,Baleno,5
+292,1.6 S,Manual,49814,1st Owner,Petrol,857499,Hyundai,Creta,7
+293,DELTA 1.2 K12,Manual,31923,2nd Owner,Petrol,597199,Maruti,Baleno,3
+294,G,Manual,43321,1st Owner,Petrol,324899,Toyota,Etios Liva,10
+296,DELTA 1.2 K12,Manual,21800,1st Owner,Petrol,693699,Maruti,Baleno,3
+297,STYLE 1.0TSI MT,Manual,9999,1st Owner,Petrol,1194199,Skoda,Rapid,1
+298,LXI,Manual,17800,2nd Owner,Petrol,300099,Maruti,Alto 800,5
+299,SPORTZ 1.2 KAPPA VTVT,Manual,41119,1st Owner,Petrol,458599,Hyundai,Grand i10,6
+300,1.2 i-VTEC VX MT,Manual,18954,1st Owner,Petrol,758499,Honda,WR-V,5
+301,1.5 TREND TI VCT,Manual,28560,1st Owner,Petrol,784799,Ford,Ecosport,3
+302,ZDI,Manual,23602,1st Owner,Diesel,898599,Maruti,Vitara Brezza,3
+303,DELTA 1.2 K12,Manual,40552,1st Owner,Petrol,525199,Maruti,Baleno,6
+304,ZX CVT PETROL,Automatic,19930,1st Owner,Petrol,1860099,Honda,Civic,3
+305,ZETA 1.2 K12,Manual,21204,1st Owner,Petrol,519499,Maruti,IGNIS,5
+306,Magna Executive Diesel,Manual,57975,1st Owner,Diesel,668899,Hyundai,Elite i20,4
+307,1.2 VX MT I VTEC,Manual,30553,1st Owner,Petrol,469299,Honda,Brio,5
+308,ALPHA 1.2 K12,Manual,65636,1st Owner,Petrol,559999,Maruti,Baleno,7
+309,MAGNA 1.2 KAPPA VTVT,Manual,43049,1st Owner,Petrol,496699,Hyundai,Grand i10,4
+311,VXI PLUS,Manual,4409,1st Owner,Petrol,491899,Maruti,S PRESSO,1
+312,SHARP DCT PETROL,Automatic,34236,1st Owner,Petrol,1737199,MG,HECTOR,2
+313,S 1.2,Manual,41535,1st Owner,Petrol,449799,Hyundai,Xcent,7
+314,SPORTZ 1.1,Manual,28943,1st Owner,Petrol,495799,Hyundai,NEW SANTRO,3
+315,ZETA 1.2 K12,Manual,52677,1st Owner,Petrol,554849,Maruti,Baleno,6
+316,1.5 TITANIUM TI VCT,Manual,89846,1st Owner,Petrol + CNG,719499,Ford,Ecosport,4
+317,CLIMBER 1.0 AT,Automatic,55432,1st Owner,Petrol,356499,Renault,Kwid,5
+318,2.0 TDI MT S EDITION,Manual,93844,1st Owner,Diesel,1037699,Audi,Q3,8
+319,LXI CNG,Manual,30016,1st Owner,Petrol + CNG,495599,Maruti,Alto,1
+320,ALPHA SHVS  MT,Manual,17952,1st Owner,Petrol,1082499,Maruti,XL6,3
+321,ALPHA 1.5 MT VTVT SHVS,Manual,9758,1st Owner,Petrol,1126649,Maruti,Ciaz,1
+322,Magna Executive 1.2,Manual,44077,2nd Owner,Petrol,546899,Hyundai,Elite i20,4
+323,VXI PLUS,Manual,60264,2nd Owner,Petrol,425299,Maruti,Wagon R 1.0,4
+324,1.2 i-VTEC VX MT,Manual,68354,1st Owner,Petrol,709899,Honda,WR-V,5
+325,MAGNA 1.2 KAPPA VTVT,Manual,66329,1st Owner,Petrol,438999,Hyundai,Grand i10,6
+326,Sportz(O) 1.2 MT,Manual,63766,1st Owner,Petrol,521399,Hyundai,Grand i10,5
+327,SPORTZ 1.2 KAPPA VTVT,Manual,47146,2nd Owner,Petrol,434349,Hyundai,Grand i10,7
+328,VXI PLUS,Manual,15460,1st Owner,Petrol,424399,Maruti,Alto,1
+329,SPORTZ 1.2 VTVT,Manual,83811,1st Owner,Petrol,399699,Hyundai,i20,8
+330,SPORTZ 1.2,Manual,46473,2nd Owner,Petrol,547799,Hyundai,Elite i20,6
+331,ZDI PLUS,Manual,30973,1st Owner,Diesel,959699,Maruti,Vitara Brezza,3
+332,ZETA 1.2 K12 CVT,Automatic,14407,1st Owner,Petrol,942499,Maruti,Baleno,1
+333,LXI,Manual,71314,1st Owner,Petrol,321699,Maruti,Alto,3
+334,W8 FWD AT,Automatic,90501,1st Owner,Diesel,1125299,Mahindra,XUV500,5
+335,J CVT,Automatic,13618,1st Owner,Petrol,905999,Toyota,YARIS,3
+336,Sportz(O) 1.2 MT,Manual,34652,1st Owner,Petrol,515599,Hyundai,Grand i10,5
+337,VXI,Manual,34338,1st Owner,Petrol + CNG,511899,Maruti,Celerio,3
+338,VXI,Manual,31335,2nd Owner,Petrol,378899,Maruti,Swift,8
+339,DELTA 1.2 K12,Manual,35245,1st Owner,Petrol,572399,Maruti,Baleno,4
+340,VXI PLUS,Manual,99521,1st Owner,Petrol,586799,Maruti,Ciaz,6
+341,1.2 S,Manual,70259,1st Owner,Petrol,541299,Hyundai,i20 Active,7
+342,ZXI 1.2,Manual,38889,1st Owner,Petrol,506699,Maruti,New  Wagon-R,3
+343,Sportz(O) 1.2 MT,Manual,42016,2nd Owner,Petrol,471299,Hyundai,Grand i10,5
+344,DELTA 1.2 K12,Manual,45522,1st Owner,Petrol,662399,Maruti,Baleno,3
+345,VXI,Manual,11145,1st Owner,Petrol,413599,Maruti,Alto K10,3
+346,35TDI PREMIUM,Automatic,91772,2nd Owner,Diesel,1348599,Audi,A3,8
+347,VX CVT PETROL,Automatic,31419,1st Owner,Petrol,1264699,Honda,City,2
+348,VX MT DIESEL,Manual,49653,1st Owner,Diesel,675099,Honda,City,6
+349,ASTA 1.2 (O) VTVT,Manual,49271,3rd Owner,Petrol,452899,Hyundai,Grand i10,5
+350,ZDI,Manual,31516,1st Owner,Diesel,883799,Maruti,Vitara Brezza,3
+351,1.6 S,Manual,71587,1st Owner,Petrol,805499,Hyundai,Creta,7
+352,ZETA 1.2 K12,Manual,59676,1st Owner,Petrol,559099,Maruti,Baleno,6
+353,1.5 TITANIUM TI VCT AT,Automatic,12333,1st Owner,Petrol,1056849,Ford,Ecosport,2
+354,CRDE 4X4 BS IV,Manual,19767,1st Owner,Diesel,876399,Mahindra,Thar,4
+355,ASTA 1.2 (O),Manual,66702,1st Owner,Petrol,607899,Hyundai,Elite i20,6
+356,SPORTZ 1.2 AT,Automatic,32873,1st Owner,Petrol,725799,Hyundai,GRAND I10 NIOS,3
+357,G MT,Manual,27388,1st Owner,Petrol,984099,Toyota,YARIS,1
+358,1.5 TITANIUM TI VCT AT,Automatic,39026,2nd Owner,Petrol,717099,Ford,Ecosport,5
+359,VDI,Manual,41437,1st Owner,Diesel,796599,Maruti,Vitara Brezza,3
+360,ZDI,Manual,26786,1st Owner,Diesel,655399,Maruti,Vitara Brezza,6
+361,DELTA 1.2 K12,Manual,28920,2nd Owner,Petrol,639799,Maruti,Baleno,3
+362,MAGNA 1.4 CRDI,Manual,53859,2nd Owner,Diesel,428399,Hyundai,Elite i20,7
+363,2.0 TDI  PREMIUM,Automatic,52439,1st Owner,Diesel,1263899,Audi,A3,8
+364,DELTA 1.2 K12,Manual,50712,1st Owner,Petrol,595899,Maruti,Baleno,4
+365,W8(O),Manual,68515,2nd Owner,Diesel,897899,Mahindra,XUV 3OO,3
+366,SPORTZ 1.2 KAPPA VTVT,Manual,79292,1st Owner,Petrol,486349,Hyundai,Grand i10,5
+367,SPORTZ 1.2 KAPPA VTVT,Manual,68268,1st Owner,Petrol,458799,Hyundai,Grand i10,6
+368,LXI OPT,Manual,5145,1st Owner,Petrol,407699,Maruti,Alto,1
+369,DELTA 1.2 K12 AMT,Automatic,44161,1st Owner,Petrol,567899,Maruti,IGNIS,4
+370,1.5 TREND TDCI,Manual,33832,2nd Owner,Diesel,420199,Ford,Ecosport,9
+371,VDI,Manual,49770,2nd Owner,Diesel,723399,Maruti,Vitara Brezza,4
+372,DELTA 1.2 K12,Manual,60820,1st Owner,Petrol,539899,Maruti,Baleno,6
+373,DELTA 1.3 DDIS SHVS,Manual,55856,1st Owner,Diesel,635899,Maruti,Ciaz,5
+374,ZETA 1.2 K12,Manual,32387,1st Owner,Petrol,702399,Maruti,Baleno,3
+375,ZXI,Manual,56793,1st Owner,Petrol,227499,Maruti,Ritz,13
+376,J MT,Manual,8461,1st Owner,Petrol,1161299,Toyota,YARIS,1
+377,VXI,Manual,26096,1st Owner,Petrol,362199,Maruti,Alto K10,4
+378,1.6 SX CRDI,Manual,40640,1st Owner,Diesel,1028899,Hyundai,Creta,4
+379,VDI,Manual,60623,1st Owner,Diesel,366399,Maruti,Ritz,7
+380,ZETA 1.2 K12,Manual,80741,2nd Owner,Petrol,569099,Maruti,Baleno,3
+381,1.4 E PLUS CRDI,Manual,88168,1st Owner,Diesel,887499,Hyundai,Creta,4
+382,DELTA 1.2 K12,Manual,65626,1st Owner,Petrol,612699,Maruti,Baleno,3
+383,VXI AMT,Automatic,36424,1st Owner,Petrol,686099,Maruti,Swift,3
+384,MAGNA 1.2,Manual,91525,1st Owner,Petrol,507699,Hyundai,Elite i20,6
+385,35TDI PREMIUM,Automatic,34148,2nd Owner,Diesel,1317299,Audi,A3,8
+386,VXI,Manual,14443,1st Owner,Petrol,387699,Maruti,Alto,2
+387,SPORTZ 1.4,Manual,94365,3rd Owner,Diesel,396799,Hyundai,Elite i20,7
+388,ZDI,Manual,41077,1st Owner,Diesel,866099,Maruti,Vitara Brezza,3
+389,S5,Manual,56538,1st Owner,Diesel,1046899,Mahindra,Scorpio,4
+390,ZETA 1.2 K12,Manual,45448,1st Owner,Petrol,529399,Maruti,Baleno,5
+391,LXI,Manual,35617,1st Owner,Petrol,307099,Maruti,Alto 800,4
+392,ALPHA 1.2 K12,Manual,37949,1st Owner,Petrol,684199,Maruti,Baleno,4
+393,LXI,Manual,78068,2nd Owner,Petrol,233899,Maruti,Ritz,11
+394,VXI,Manual,42317,1st Owner,Petrol,378599,Maruti,Alto K10,4
+395,VDI,Manual,24670,2nd Owner,Diesel,778999,Maruti,Vitara Brezza,3
+396,DELTA 1.2 K12 AT,Automatic,33503,1st Owner,Petrol,773949,Maruti,Baleno,2
+398,VXI,Manual,37480,1st Owner,Petrol,378699,Maruti,Alto,2
+399,DELTA 1.2 K12,Manual,49092,1st Owner,Petrol,525199,Maruti,Baleno,6
+400,ALPHA 1.2 K12,Manual,44978,1st Owner,Petrol,616999,Maruti,Baleno,5
+401,1.4 E PLUS CRDI,Manual,68765,1st Owner,Diesel,801199,Hyundai,Creta,5
+402,VDI,Manual,28057,1st Owner,Diesel,720899,Maruti,Vitara Brezza,4
+403,1.6 CRDI SX PLUS AUTO,Automatic,79950,2nd Owner,Diesel,1000999,Hyundai,Creta,4
+404,1.5 TITANIUM TI VCT AT,Automatic,18977,1st Owner,Petrol,784199,Ford,Ecosport,5
+405,ZDI+ SHVS,Manual,57281,2nd Owner,Diesel,643799,Maruti,Ciaz,5
+406,1.5TITANIUM TDCI,Manual,33438,1st Owner,Diesel,815399,Ford,Ecosport,4
+407,35 TDI Quattro,Automatic,52533,1st Owner,Diesel,1486499,Audi,Q3,7
+408,FLUIDIC 1.6 SX CRDI,Manual,33450,1st Owner,Diesel,450499,Hyundai,Verna,9
+409,VXI,Manual,38225,1st Owner,Petrol,358799,Maruti,Alto K10,3
+410,VXI PLUS,Manual,14860,1st Owner,Petrol,455999,Maruti,S PRESSO,2
+411,VXI PLUS,Manual,14050,1st Owner,Petrol,472199,Maruti,S PRESSO,1
+412,LXI CNG,Manual,21829,1st Owner,Petrol + CNG,520399,Maruti,Alto,1
+413,ZDI PLUS,Manual,36809,1st Owner,Diesel,665199,Maruti,Vitara Brezza,6
+414,S10,Manual,43901,1st Owner,Diesel,1132999,Mahindra,Scorpio,6
+415,ZETA 1.2 K12,Manual,61060,1st Owner,Petrol,535499,Maruti,Baleno,6
+416,ALPHA SHVS  MT,Manual,38885,1st Owner,Petrol,978599,Maruti,XL6,3
+417,VXI PLUS,Manual,19193,1st Owner,Petrol,426699,Maruti,S PRESSO,2
+418,S10,Manual,43954,1st Owner,Diesel,1004399,Mahindra,Scorpio,7
+419,ZETA 1.2 K12,Manual,57436,1st Owner,Petrol,560499,Maruti,Baleno,5
+420,DELTA 1.2 K12,Manual,42903,1st Owner,Petrol,529099,Maruti,Baleno,5
+421,1.5 TDCI TITANIUM PLUS,Manual,42349,1st Owner,Diesel,648999,Ford,Ecosport,5
+422,35TDI PREMIUM,Automatic,87052,1st Owner,Diesel,1796299,Audi,Q3,6
+423,1.5TITANIUM TDCI,Manual,16751,1st Owner,Diesel,1077799,Ford,Ecosport,1
+424,VXI,Manual,18261,1st Owner,Petrol,395899,Maruti,Alto,2
+425,2.0 TDI TECHNOLOGY,Automatic,77281,2nd Owner,Diesel,1949999,Audi,A6,7
+426,VXI,Manual,28287,2nd Owner,Petrol,375799,Maruti,Alto K10,4
+427,DELTA 1.2 K12,Manual,34241,1st Owner,Petrol,502399,Maruti,IGNIS,4
+428,2.0 TDI STYLE PLUS AT,Automatic,95993,1st Owner,Diesel,1135999,Skoda,Octavia,6
+429,VDI,Manual,44339,1st Owner,Diesel,725799,Maruti,Vitara Brezza,4
+430,ALPHA DDIS 190,Manual,51429,2nd Owner,Diesel,593999,Maruti,Baleno,5
+431,1.4 E PLUS CRDI,Manual,42720,1st Owner,Diesel,872799,Hyundai,Creta,5
+432,VXI PLUS,Manual,30537,2nd Owner,Petrol,390399,Maruti,S PRESSO,3
+433,ZETA 1.2 K12 AMT,Automatic,72196,1st Owner,Petrol,626899,Maruti,Baleno,5
+434,VDI ABS,Manual,79736,2nd Owner,Diesel,501899,Maruti,Swift Dzire,6
+435,ZDI,Manual,62245,2nd Owner,Diesel,531399,Maruti,Ciaz,7
+436,1.4 E PLUS CRDI,Manual,78220,1st Owner,Diesel,765299,Hyundai,Creta,5
+437,SPORTZ 1.4,Manual,45778,1st Owner,Diesel,451999,Hyundai,Elite i20,7
+438,1.5 TREND TDCI,Manual,38666,1st Owner,Diesel,426399,Ford,Ecosport,8
+439,ZETA 1.2 K12 AMT,Automatic,90618,1st Owner,Petrol,577299,Maruti,Baleno,5
+440,E MT DIESEL,Manual,137622,2nd Owner,Diesel,396099,Honda,City,8
+441,2.0 TDI MT S EDITION,Manual,68368,1st Owner,Diesel,1089449,Audi,Q3,8
+442,SDRIVE 20D,Automatic,31705,2nd Owner,Diesel,1619599,BMW,X1,6
+443,VDI,Manual,42161,1st Owner,Diesel,641399,Maruti,Vitara Brezza,6
+444,ALPHA SHVS,Manual,56102,1st Owner,Diesel,875299,Maruti,S Cross,4
+445,1.5TITANIUM TDCI,Manual,65143,1st Owner,Diesel,817799,Ford,Ecosport,4
+446,VDI,Manual,27835,1st Owner,Diesel,697799,Maruti,Vitara Brezza,6
+447,VDI+ SHVS,Manual,121686,2nd Owner,Diesel,458799,Maruti,Ciaz,7
+448,VDI OPT,Manual,51167,2nd Owner,Diesel,637899,Maruti,Vitara Brezza,5
+449,VXI,Manual,45659,1st Owner,Petrol,453349,Maruti,S PRESSO,2
+450,1.5 TDCI TITANIUM PLUS,Manual,59508,1st Owner,Diesel,822599,Ford,Ecosport,4
+451,VDI,Manual,47851,1st Owner,Diesel,682199,Maruti,Vitara Brezza,5
+452,VXI,Manual,42796,1st Owner,Petrol,403399,Maruti,Alto,2
+453,ZETA 1.2 K12 AMT,Automatic,79004,1st Owner,Petrol,607499,Maruti,Baleno,5
+454,VDI (O) SHVS HYBIRD,Manual,122884,1st Owner,Diesel,449699,Maruti,Ciaz,7
+455,LXI CNG,Manual,26773,1st Owner,Petrol + CNG,498899,Maruti,Alto,1
+456,VDI BS IV,Manual,76009,1st Owner,Diesel,491799,Maruti,Swift Dzire,7
+457,VDI ABS,Manual,47283,1st Owner,Diesel,534899,Maruti,Swift,5
+458,30 TDI MT S EDITION,Manual,71795,1st Owner,Diesel,1275399,Audi,Q3,7
+459,1.5 i-DTEC VX MT,Manual,77611,1st Owner,Diesel,726999,Honda,WR-V,5
+460,DELTA 1.2 K12,Manual,34076,1st Owner,Petrol,530199,Maruti,IGNIS,3
+461,D 4D G,Manual,127926,1st Owner,Diesel,643399,Toyota,Corolla Altis,8
+462,SPORTZ 1.4 CRDI,Manual,72852,1st Owner,Diesel,334499,Hyundai,i20,8
+463,VDI ABS,Manual,49425,1st Owner,Diesel,528899,Maruti,Ertiga,9
+464,VXI,Manual,20681,1st Owner,Petrol,442099,Maruti,S PRESSO,2
+465,2.0 TDI QUATTRO,Automatic,89740,1st Owner,Diesel,1082799,Audi,Q3,9
+466,ZDI,Manual,44427,1st Owner,Diesel,631599,Maruti,Vitara Brezza,6
+467,VDI,Manual,80192,1st Owner,Diesel,352799,Maruti,Ritz,8
+468,ALPHA 1.3 DDIS,Manual,79796,2nd Owner,Diesel,519349,Maruti,IGNIS,5
+469,RXS 85 PS,Manual,90520,1st Owner,Diesel,692999,Renault,Duster,4
+470,ASTA 1.1 CRDI,Manual,90449,1st Owner,Diesel,371599,Hyundai,Grand i10,7
+471,85 PS RXL OPT,Manual,84717,1st Owner,Diesel,383799,Renault,Duster,8
+472,ZETA 1.2 K12 AMT,Automatic,63892,2nd Owner,Petrol,591899,Maruti,Baleno,5
+473,1.5TITANIUM TDCI,Manual,51765,2nd Owner,Diesel,784549,Ford,Ecosport,3
+474,VDI+ SHVS,Manual,88616,1st Owner,Diesel,534599,Maruti,Ciaz,6
+475,1.4 S PLUS,Manual,51763,1st Owner,Diesel,725499,Hyundai,Creta,7
+476,VXI,Manual,45891,2nd Owner,Petrol,372099,Maruti,Alto K10,5
+477,VDI+ SHVS,Manual,83350,1st Owner,Diesel,639999,Maruti,Ciaz,5
+478,2WD AT GL DIESEL,Automatic,88655,1st Owner,Diesel,1381299,Hyundai,Tucson New,5
+479,ZDI,Manual,51088,2nd Owner,Diesel,548499,Maruti,Swift,5
+480,S10,Manual,74939,1st Owner,Diesel,1125199,Mahindra,Scorpio,6
+481,VXI,Manual,56783,1st Owner,Petrol,376399,Maruti,Alto K10,5
+482,VDI OPT,Manual,67116,2nd Owner,Diesel,618799,Maruti,Vitara Brezza,5
+483,ALPHA 1.3,Manual,46980,1st Owner,Diesel,601899,Maruti,S Cross,7
+484,E 220 CDI ELEGANCE,Automatic,53524,1st Owner,Diesel,1200899,Mercedes,Benz E Class,9
+485,30 TDI PREMIUM PLUS,Automatic,33109,1st Owner,Diesel,1793399,Audi,Q5,8
+486,VXI,Manual,31642,1st Owner,Petrol,378849,Maruti,Alto,1
+487,VDI OPT,Manual,74082,1st Owner,Diesel,646099,Maruti,Vitara Brezza,5
+488,1.5TITANIUM TDCI,Manual,55513,1st Owner,Diesel,753399,Ford,Ecosport,4
+489,DELTA DDIS 190,Manual,69270,1st Owner,Diesel,555999,Maruti,Baleno,6
+490,VDI OPT,Manual,148572,1st Owner,Diesel,636399,Maruti,Vitara Brezza,5
+491,RXZ AMT 110 PS,Automatic,89143,2nd Owner,Diesel,724399,Renault,Duster,5
+492,1.5TITANIUM TDCI,Manual,74204,1st Owner,Diesel,777299,Ford,Ecosport,4
+493,520D LUXURY LINE,Automatic,83330,2nd Owner,Diesel,1371599,BMW,5 Series,9
+494,ZDI,Manual,81842,1st Owner,Diesel,705399,Maruti,Vitara Brezza,5
+495,1.6 SX CRDI,Manual,85776,1st Owner,Diesel,756599,Hyundai,Creta,6
+496,1.5TITANIUM TDCI,Manual,42949,1st Owner,Diesel,817199,Ford,Ecosport,3
+497,SV MT DIESEL,Manual,86449,1st Owner,Diesel,454099,Honda,City,8
+498,ZDI PLUS DUAL TONE,Manual,69262,2nd Owner,Diesel,649099,Maruti,Vitara Brezza,5
+499,SPORTZ (O) 1.4,Manual,73924,1st Owner,Diesel,421099,Hyundai,Elite i20,8
+500,ZDI PLUS,Manual,75754,2nd Owner,Diesel,664799,Maruti,Vitara Brezza,5
+501,ASTA 1.4 CRDI,Manual,89083,2nd Owner,Diesel,399799,Hyundai,i20,8
+502,VDI,Manual,79417,2nd Owner,Diesel,572799,Maruti,Vitara Brezza,6
+503,1.5 TREND+ TDCI,Manual,113206,1st Owner,Diesel,542999,Ford,Ecosport,5
+504,VXI,Manual,68078,1st Owner,Petrol,353599,Maruti,Alto K10,4
+505,1.5 TITANIUMTDCI OPT,Manual,81227,2nd Owner,Diesel,415499,Ford,Ecosport,9
+506,SPORTZ 1.1 CRDI,Manual,73894,1st Owner,Diesel,382199,Hyundai,Grand i10,7
+507,S10,Manual,87784,2nd Owner,Diesel,963499,Mahindra,Scorpio,6
+508,1.5TITANIUM TDCI,Manual,71633,1st Owner,Diesel,649099,Ford,Ecosport,5
+509,VDI OPT,Manual,88480,1st Owner,Diesel,630599,Maruti,Vitara Brezza,5
+510,1.5 TREND+ TDCI,Manual,35215,1st Owner,Diesel,575699,Ford,Ecosport,6
+511,ZETA DDIS 190,Manual,70755,1st Owner,Diesel,476199,Maruti,Baleno,7
+512,1.5 TITANIUMTDCI OPT,Manual,76208,1st Owner,Diesel,425899,Ford,Ecosport,9
+513,VDI OPT,Manual,62861,1st Owner,Diesel,635399,Maruti,Vitara Brezza,6
+514,85 PS RXL,Manual,70946,1st Owner,Diesel,650099,Renault,Duster,6
+515,VDI ABS,Manual,92673,1st Owner,Diesel,376599,Maruti,Swift,7
+516,CROSS VD,Manual,83974,2nd Owner,Diesel,476099,Toyota,Etios,8
+517,ALPHA 1.3,Manual,75945,1st Owner,Diesel,604599,Maruti,S Cross,7
+518,ZDI PLUS,Manual,90969,1st Owner,Diesel,716599,Maruti,Vitara Brezza,5
+519,1.5TITANIUM TDCI,Manual,51221,2nd Owner,Diesel,448399,Ford,Ecosport,8
+520,1.5 TDCI TITANIUM PLUS,Manual,26892,1st Owner,Diesel,763499,Ford,Ecosport,5
+521,ZDI PLUS,Manual,72183,1st Owner,Diesel,639899,Maruti,Vitara Brezza,6
+522,VDI ABS,Manual,69898,1st Owner,Diesel,399499,Maruti,Swift,7
+523,VDI ABS,Manual,83583,1st Owner,Diesel,398899,Maruti,Swift,7
+524,ZDI,Manual,82051,1st Owner,Diesel,620799,Maruti,Vitara Brezza,5
+525,ZDI,Manual,54904,1st Owner,Diesel,649099,Maruti,Vitara Brezza,6
+526,VDI ABS,Manual,52839,1st Owner,Diesel,494399,Maruti,Swift,5
+527,ZDI PLUS,Manual,57707,1st Owner,Diesel,674199,Maruti,Vitara Brezza,6
+528,ZDI,Manual,61982,1st Owner,Diesel,680799,Maruti,Vitara Brezza,5
+529,ALPHA SHVS,Manual,38780,2nd Owner,Diesel,822299,Maruti,S Cross,4
+530,VDI ABS,Manual,86816,1st Owner,Diesel,401499,Maruti,Swift,7
+531,ZETA 1.3,Manual,37521,1st Owner,Diesel,738199,Maruti,S Cross,5
+532,VDI ABS,Manual,56999,1st Owner,Diesel,411099,Maruti,Swift,7
+533,VDI ABS,Manual,76491,1st Owner,Diesel,394599,Maruti,Swift,7
+534,VDI OPT,Manual,98820,1st Owner,Diesel,568999,Maruti,Vitara Brezza,6
+535,1.5 TITANIUMTDCI OPT,Manual,72887,1st Owner,Diesel,694399,Ford,Ecosport,5
+536,ALPHA SHVS,Manual,96787,2nd Owner,Diesel,709199,Maruti,S Cross,5
+537,ZDI,Manual,102367,1st Owner,Diesel,580399,Maruti,Vitara Brezza,6
+538,ALPHA SHVS,Manual,91763,2nd Owner,Diesel,695599,Maruti,S Cross,5
+539,ZDI PLUS DUAL TONE,Manual,90492,1st Owner,Diesel,685599,Maruti,Vitara Brezza,6
+540,ZDI,Manual,73654,1st Owner,Diesel,385499,Maruti,Swift,8
+541,ERA 1.1 IRDE,Manual,29540,2nd Owner,Petrol,266199,Hyundai,i10,8
+542,K2 6 STR,Manual,19955,1st Owner,Petrol,408099,Mahindra,KUV 100 NXT,4
+543,A,Manual,22898,2nd Owner,Petrol,242999,Datsun,Redi Go,4
+544,LXI,Manual,9371,1st Owner,Petrol,586699,Maruti,Swift,2
+545,SHARP HYBRID PETROL,Manual,3587,1st Owner,Petrol,1819949,MG,HECTOR PLUS,1
+546,VXI,Manual,87376,1st Owner,Petrol,269699,Maruti,Wagon R 1.0,9
+547,LXI,Manual,17435,1st Owner,Petrol,592499,Maruti,Swift,2
+548,LXI,Manual,48604,2nd Owner,Petrol,237899,Maruti,Alto 800,8
+549,VXI,Manual,23629,2nd Owner,Petrol,231699,Maruti,A Star,11
+550,ERA PLUS,Manual,29651,1st Owner,Petrol,257999,Hyundai,Eon,8
+551,SIGMA 1.2 K12,Manual,13525,1st Owner,Petrol,600999,Maruti,Baleno,2
+552,VXI,Manual,38042,1st Owner,Petrol,237899,Maruti,Alto K10,11
+553,SPORTZ 1.2 AT,Automatic,38983,1st Owner,Petrol,202099,Hyundai,i10,13
+554,VXI,Manual,20730,1st Owner,Petrol,280999,Maruti,Swift,12
+555,RXL,Manual,867,2nd Owner,Petrol,378299,Renault,Kwid,3
+556,Magna Executive 1.2,Manual,30023,1st Owner,Petrol,536399,Hyundai,Elite i20,4
+557,1.5 SIGMA SHVS,Manual,18855,1st Owner,Petrol,885699,Maruti,Ciaz,1
+558,VXI,Manual,37291,2nd Owner,Petrol,367899,Maruti,Swift Dzire,9
+559,LXI,Manual,24668,1st Owner,Petrol,353899,Maruti,Celerio,7
+560,SIGMA 1.2 K12,Manual,25009,2nd Owner,Petrol,545299,Maruti,Baleno,3
+561,S10,Manual,52999,1st Owner,Diesel,1074399,Mahindra,Scorpio,5
+562,VXI 1.2 BS IV,Manual,49879,1st Owner,Petrol,387099,Maruti,Swift Dzire,9
+563,1.0 LXI (O),Manual,6943,1st Owner,Petrol,587199,Maruti,New  Wagon-R,0
+565,VXI,Manual,51321,1st Owner,Petrol,441899,Maruti,Swift,8
+566,VX MT PETROL,Manual,43748,1st Owner,Petrol,654299,Honda,City,8
+567,MAGNA PLUS,Manual,38231,1st Owner,Petrol,319399,Hyundai,Eon,6
+568,RXT,Manual,31486,1st Owner,Petrol,350699,Renault,Kwid,5
+569,VXI 1.0,Manual,20862,1st Owner,Petrol,540299,Maruti,New  Wagon-R,2
+570,1.6 CRDI SX + AT,Automatic,74743,1st Owner,Diesel,987399,Hyundai,Verna,4
+571,1.5 TITANIUMTDCI OPT,Manual,156491,1st Owner,Diesel,408299,Ford,Ecosport,8
+572,J S,Manual,128020,2nd Owner,Petrol + CNG,772499,Toyota,Corolla Altis,5
+573,V MT PETROL,Manual,41236,1st Owner,Petrol,831039,Honda,City,3
+574,LXI CNG,Manual,17920,1st Owner,Petrol + CNG,507699,Maruti,Alto,1
+575,ZXI,Manual,96633,1st Owner,Petrol,372999,Maruti,Swift,10
+576,K8 6 STR,Manual,19930,1st Owner,Petrol,460899,Mahindra,Kuv100,6
+577,S CRDI,Manual,15734,1st Owner,Diesel,1450499,Hyundai,Creta,2
+578,VXI,Manual,41332,1st Owner,Petrol,634799,Maruti,Dzire,3
+579,RXT,Manual,25236,1st Owner,Petrol,342199,Renault,Kwid,4
+580,CRDE 4X4 BS IV,Manual,14613,2nd Owner,Diesel,710699,Mahindra,Thar,5
+581,VXI,Manual,21348,1st Owner,Petrol,560599,Maruti,Swift,4
+582,LDI BS IV,Manual,50409,2nd Owner,Diesel,303099,Maruti,Swift Dzire,9
+584,1.2 SPORTS PLUS VTVT,Manual,28785,1st Owner,Petrol,698099,Hyundai,Elite i20,2
+585,LXI CNG,Manual,85445,1st Owner,Petrol + CNG,410499,Maruti,Wagon R 1.0,5
+586,VXI 1.2 BS IV,Manual,34201,2nd Owner,Petrol,417299,Maruti,Swift Dzire,8
+587,ZXI+,Manual,14030,1st Owner,Petrol,762599,Maruti,Swift,2
+588,VXI,Manual,19064,1st Owner,Petrol,418699,Maruti,Wagon R 1.0,4
+589,1.0 RXL,Manual,56833,1st Owner,Petrol,307199,Renault,Kwid,5
+590,S CRDI,Manual,34068,1st Owner,Diesel,1450499,Hyundai,Creta,1
+591,1.2 SAT I VTEC,Automatic,21952,1st Owner,Petrol + CNG,720399,Honda,Amaze,4
+592,XZA 1.2 REVOTRON,Automatic,36134,2nd Owner,Petrol,417399,Tata,Tiago,5
+593,1.2 i-VTEC VX MT,Manual,18472,1st Owner,Petrol,719499,Honda,WR-V,5
+594,MAGNA 1.2 VTVT,Manual,46249,1st Owner,Petrol,393599,Hyundai,Grand i10,7
+595,FLUIDIC 1.6 SX VTVT,Manual,78904,1st Owner,Petrol,516599,Hyundai,Verna,8
+596,ZX CVT,Automatic,10277,1st Owner,Petrol,1294399,Honda,City,2
+597,XM 1.2 REVOTRON,Manual,77099,1st Owner,Petrol + CNG,378799,Tata,Tiago,5
+598,K8 5 STR,Manual,71807,1st Owner,Petrol,353499,Mahindra,Kuv100,6
+599,SPORTZ 1.2,Manual,74012,1st Owner,Petrol,448499,Hyundai,Elite i20,8
+600,VXI PLUS,Manual,83441,1st Owner,Petrol + CNG,659199,Maruti,Ciaz,6
+601,DELTA 1.2 K12,Manual,19571,1st Owner,Petrol,564299,Maruti,Baleno,5
+602,S7 120 BHP 2WD,Manual,42162,1st Owner,Diesel,1093699,Mahindra,Scorpio,4
+603,W8 FWD,Manual,79472,2nd Owner,Diesel,584699,Mahindra,XUV500,8
+604,85 PS RXE,Manual,159515,1st Owner,Diesel,383499,Renault,Duster,8
+605,ZDI Plus AMT,Automatic,28447,3rd Owner,Diesel,680699,Maruti,Dzire,4
+606,Magna 1.2 AT  VTVT,Automatic,37536,1st Owner,Petrol,521299,Hyundai,Grand i10,5
+607,1.5 EMT I DTEC,Manual,48160,1st Owner,Diesel,296499,Honda,Amaze,9
+608,GD,Manual,119092,1st Owner,Diesel,297199,Toyota,Etios Liva,9
+609,VXI,Manual,56195,1st Owner,Petrol,529299,Maruti,Swift,4
+610,DELTA 1.3 DDIS SHVS,Manual,68559,1st Owner,Diesel,608499,Maruti,Ciaz,5
+611,W8 FWD,Manual,72062,1st Owner,Diesel,551099,Mahindra,XUV500,9
+612,LXI CNG (O),Manual,39317,1st Owner,Petrol + CNG,445799,Maruti,Alto,2
+613,VDI ABS,Manual,119766,3rd Owner,Diesel,419799,Maruti,Ertiga,9
+614,VXI,Manual,42236,2nd Owner,Petrol,315799,Maruti,Alto 800,3
+615,VDI ABS,Manual,161137,1st Owner,Diesel,465899,Maruti,Ertiga,9
+616,VXI CNG,Manual,73708,1st Owner,Petrol + CNG,495299,Maruti,Celerio,4
+617,VXI (O) AMT,Automatic,59822,2nd Owner,Petrol,330999,Maruti,Alto K10,4
+618,HIGHLINE PLUS DSG 1.5,Automatic,40325,1st Owner,Diesel,628799,Volkswagen,Ameo,5
+619,1.5 TREND+ TDCI,Manual,78972,1st Owner,Diesel,564599,Ford,Ecosport,5
+620,1.4 E PLUS CRDI,Manual,95601,1st Owner,Diesel,771499,Hyundai,Creta,5
+621,VDI ABS,Manual,58807,2nd Owner,Diesel,463199,Maruti,Swift Dzire,6
+622,VDI ABS,Manual,106627,1st Owner,Diesel,397899,Maruti,Swift,6
+623,SPORTZ 1.1 CRDI,Manual,87019,2nd Owner,Diesel,356199,Hyundai,Grand i10,7
+624,LDI BS IV,Manual,46867,1st Owner,Diesel,390899,Maruti,Swift,7
+625,LDI BS IV,Manual,47617,1st Owner,Diesel,326699,Maruti,Swift,8
+626,VDI,Manual,30528,1st Owner,Diesel,408499,Maruti,Swift,7
+627,3.0 AT 4X2,Automatic,76155,1st Owner,Diesel,1226199,Toyota,Fortuner,9
+628,VDI ABS,Manual,47493,1st Owner,Diesel,418499,Maruti,Swift,7
+629,1.5 TITANIUMTDCI OPT,Manual,50178,1st Owner,Diesel,438599,Ford,Ecosport,8
+630,ZDI,Manual,72730,1st Owner,Diesel,593599,Maruti,Vitara Brezza,6
+631,VDI,Manual,76978,1st Owner,Diesel,319699,Maruti,Swift,9
+632,1.5 AMBIENTE TDCI,Manual,114858,1st Owner,Diesel,352699,Ford,Ecosport,9
+633,2.5 VX 8 STR BS IV,Manual,70100,1st Owner,Diesel,989999,Toyota,Innova,8
+634,LXI,Manual,19919,1st Owner,Petrol,566799,Maruti,Swift,2
+635,MAGNA 1.2 KAPPA2,Manual,51410,1st Owner,Petrol,248599,Hyundai,i10,10
+636,DELTA 1.2 K12 AMT,Automatic,61116,1st Owner,Petrol,476999,Maruti,IGNIS,5
+637,1.2 V CVT I VTEC,Automatic,53849,1st Owner,Petrol,672199,Honda,Amaze,4
+638,LXI CNG,Manual,56254,1st Owner,Petrol + CNG,437599,Maruti,Wagon R 1.0,4
+639,VXI,Manual,25068,1st Owner,Petrol,398999,Maruti,Swift Dzire,9
+640,DELTA 1.2 K12,Manual,37697,1st Owner,Petrol,586799,Maruti,Baleno,4
+641,LXI CNG,Manual,77117,2nd Owner,Petrol + CNG,369999,Maruti,Wagon R 1.0,5
+642,SPORTZ 1.2 KAPPA VTVT,Manual,52793,1st Owner,Petrol,497899,Hyundai,Grand i10,4
+643,ZXI,Manual,67620,1st Owner,Petrol,332199,Maruti,Swift,11
+644,VXI CNG,Manual,69575,1st Owner,Petrol + CNG,381299,Maruti,Celerio,6
+645,1.6 SX PLUS VTVT ANNIVERSARY EDITION,Manual,51297,2nd Owner,Petrol,851799,Hyundai,Creta,6
+646,LXI,Manual,95793,1st Owner,Petrol,232699,Maruti,Alto 800,7
+647,1.6 SX VTVT,Manual,24712,1st Owner,Petrol,902899,Hyundai,Verna,4
+648,RXT 1.0 EASY-R  AT,Automatic,38219,2nd Owner,Petrol,266499,Renault,Kwid,5
+649,SPORTZ 1.2 KAPPA2,Manual,43384,1st Owner,Petrol,320599,Hyundai,i10,9
+650,LXI CNG 1.0 L,Manual,19087,1st Owner,Petrol + CNG,608899,Maruti,New  Wagon-R,1
+652,VXI OPT,Manual,48136,1st Owner,Petrol,372999,Maruti,Alto K10,5
+653,MAGNA 1.1 IRDE2,Manual,45657,1st Owner,Petrol,350999,Hyundai,i10,7
+654,XZ 1.2 REVOTRON,Manual,649,1st Owner,Petrol,731399,Tata,TIGOR,1
+655,XE 1.2 REVOTRON,Manual,16179,1st Owner,Petrol,449499,Tata,Tiago,4
