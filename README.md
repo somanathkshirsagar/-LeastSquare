@@ -6,7 +6,7 @@ A simple Streamlit WebApp, which can predict Car Price with Machine Learning Mod
 
 I've also trained this using **Neural Network**.
 
-<a href="https://colab.research.google.com/github/utkarshbelkhede/LeastSquare/blob/master/notebook/Regression_using_ANN_Cars24.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/16jsNeH-vmo386aKwHZqfJqEDW2ww_nCV?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## **How to use?**
 ### **Clone this repository**
