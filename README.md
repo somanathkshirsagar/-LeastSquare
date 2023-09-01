@@ -11,7 +11,7 @@ I've also trained this using **Neural Network**.
 ## **How to use?**
 ### **Clone this repository**
 ```bash
-  git clone https://github.com/utkarshbelkhede/LeastSquare.git
+  git clone https://github.com/somanathkshirsagar/LeastSquare.git
 ```
 ### **Method 1 - Using Docker**
 **Prerequisite** - Docker
