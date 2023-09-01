@@ -2,7 +2,7 @@
 
 A simple Streamlit WebApp, which can predict Car Price with Machine Learning Models such as **Linear Regression, Ridge Regression, and Lasso Regression**.
 
-[Project Documentation](https://docs.google.com/document/d/1oW7xq0iSP3OqRFctUsz4QZQ90_T0gBaEjTF6NhJ-UrE/edit?usp=sharing)
+[Project Documentation](https://docs.google.com/document/d/1oW7xq0iSP3OqRFctUsz4QZQ90_T0gBaEjTF6NhJ-UrE/edit?usp=sharing) 
 
 I've also trained this using **Neural Network**.
 
